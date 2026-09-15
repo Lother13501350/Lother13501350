@@ -1,0 +1,32 @@
+[
+  {
+    "asset": "tech/typescript.svg",
+    "icon_origin": "https://raw.githubusercontent.com/simple-icons/simple-icons/4ba19240849175ab4b855a732ab98c0f87cfb714/icons/typescript.svg",
+    "license": "CC0-1.0 (Simple Icons source); trademark rights may apply to the brands."
+  },
+  {
+    "asset": "tech/react.svg",
+    "icon_origin": "https://raw.githubusercontent.com/simple-icons/simple-icons/4ba19240849175ab4b855a732ab98c0f87cfb714/icons/react.svg",
+    "license": "CC0-1.0 (Simple Icons source); trademark rights may apply to the brands."
+  },
+  {
+    "asset": "tech/nextdotjs.svg",
+    "icon_origin": "https://raw.githubusercontent.com/simple-icons/simple-icons/4ba19240849175ab4b855a732ab98c0f87cfb714/icons/nextdotjs.svg",
+    "license": "CC0-1.0 (Simple Icons source); trademark rights may apply to the brands."
+  },
+  {
+    "asset": "tech/postgresql.svg",
+    "icon_origin": "https://raw.githubusercontent.com/simple-icons/simple-icons/4ba19240849175ab4b855a732ab98c0f87cfb714/icons/postgresql.svg",
+    "license": "CC0-1.0 (Simple Icons source); trademark rights may apply to the brands."
+  },
+  {
+    "asset": "tech/python.svg",
+    "icon_origin": "https://raw.githubusercontent.com/simple-icons/simple-icons/4ba19240849175ab4b855a732ab98c0f87cfb714/icons/python.svg",
+    "license": "CC0-1.0 (Simple Icons source); trademark rights may apply to the brands."
+  },
+  {
+    "asset": "tech/githubactions.svg",
+    "icon_origin": "https://raw.githubusercontent.com/simple-icons/simple-icons/4ba19240849175ab4b855a732ab98c0f87cfb714/icons/githubactions.svg",
+    "license": "CC0-1.0 (Simple Icons source); trademark rights may apply to the brands."
+  }
+]

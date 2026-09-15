@@ -73,7 +73,10 @@ A static marketing workspace with editable campaigns, content schedules, browser
 
 ## How I build
 
-<img src="assets/workflow.svg" width="100%" alt="Idea: find the friction. Build: make it useful. Ship: leave a recovery path. A decorative pulse follows this development process; it is not a live status indicator." />
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/workflow-mobile.svg" />
+  <img src="assets/workflow.svg" width="100%" alt="Idea: find the friction. Build: make it useful. Ship: leave a recovery path. A decorative pulse follows this development process; it is not a live status indicator." />
+</picture>
 
 Small scope. Clear docs. Useful software. Recoverable changes.
 

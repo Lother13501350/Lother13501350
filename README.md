@@ -1,12 +1,3 @@
-<!--
-DIRECTION: Lother Lab — a mint-accented pixel-art maker studio, extending the existing avatar identity.
-MODE: Experience. GitHub's native profile shell remains the delivery surface.
-FIRST VIEWPORT: Full-width authored night-studio banner; ivory Lother lettering beside a travel-and-code desk.
-SIGNATURE: A single restrained pulse connects idea, build, and ship; static labels remain visible and reduced motion stops the pulse.
-CONSTRAINTS: Native GitHub Markdown/HTML only; all graphics are repository assets; no scripts, fake metrics, or external stats services.
-FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance.
--->
-
 <img src="assets/hero.webp" width="100%" alt="Lother — Web products × automation. A pixel-art night studio with a mint-lit development desk, travel maps, and a Taiwanese city outside the window." />
 
 ### Turning everyday friction into useful software.

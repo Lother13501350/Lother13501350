@@ -24,15 +24,6 @@ An affiliate operations MVP for managing product links, attributing clicks, impo
 - **Stack:** TypeScript · Next.js · React · Neon PostgreSQL · OpenAI / Claude integrations.
 - [Source, local setup, and offline screenshot](https://github.com/Lother13501350/tbti-affiliate-agent). The hosted instance is an operations service with protected administration.
 
-### [pc-steward](https://github.com/Lother13501350/pc-steward)
-
-A Windows diagnostic toolkit that gives coding agents structured evidence before a user approves a startup change.
-
-- **Work I maintain:** seven JSON-producing scanners, the agent workflow, and startup disable/restore scripts.
-- **Engineering evidence:** registry backup failure aborts the disable action; protected security entries are refused. This is an experimental Windows tool, with no automated test suite yet.
-- **Stack:** PowerShell · Windows registry · agent instructions.
-- [Source and safety boundaries](https://github.com/Lother13501350/pc-steward).
-
 ### [ChillOut Marketing Dashboard](https://github.com/Lother13501350/TREKX_Marketing)
 
 A static workspace for campaign planning, editable metrics, content schedules, and JSON/CSV handoffs.
@@ -42,8 +33,6 @@ A static workspace for campaign planning, editable metrics, content schedules, a
 - **Stack:** JavaScript · HTML / CSS · localStorage · GitHub Actions.
 - [Source](https://github.com/Lother13501350/TREKX_Marketing) · [Interactive workspace](https://chillout-marketing-dashboard.vercel.app/ops.html).
 
-For a smaller frontend example, see [Travel Agency Website](https://github.com/Lother13501350/TravelAgency_Website_Example): a React catalog with sample data, client-side filters, and a simulated enquiry form.
-
 ## Technical stack
 
 | Area | Technologies used in these repositories |
@@ -51,7 +40,7 @@ For a smaller frontend example, see [Travel Agency Website](https://github.com/L
 | Languages | TypeScript, JavaScript, PowerShell, Python, C# |
 | Web | React, Next.js App Router, Vite, Tailwind CSS |
 | Data and integration | PostgreSQL / Neon, CSV imports, affiliate adapters, Google Drive via rclone |
-| Desktop and automation | WPF, PowerShell, Windows registry, save migration tooling |
+| Desktop and automation | WPF, PowerShell, save migration tooling |
 | AI | API-backed classification and advisory agents with application-controlled writes |
 | Delivery | Git, GitHub Actions, Vercel |
 

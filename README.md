@@ -20,9 +20,9 @@ A camera-based social game with a native iOS app, web client, and shared account
 An affiliate operations MVP for managing product links, attributing clicks, importing order reports, and reviewing AI optimization proposals.
 
 - **Work I maintain:** admin workflows, PostgreSQL records, affiliate-platform adapters, CSV imports, and constrained AI proposal execution.
-- **Engineering evidence:** imports deduplicate files and platform/order IDs; the optimizer submits proposals for human review. Typecheck, lint, and production build passed locally on October 6, 2026. Automated domain tests remain a gap.
+- **Engineering evidence:** atomic CSV imports and reviewed product/audit writes, including concurrency and failure rollback. **55 tests passed locally with zero skips** on October 6, 2026: 37 domain/API, 16 PostgreSQL, and two built-server HTTP checks. Typecheck, lint, and production build also passed.
 - **Stack:** TypeScript · Next.js · React · Neon PostgreSQL · OpenAI / Claude integrations.
-- [Source, local setup, and offline screenshot](https://github.com/Lother13501350/tbti-affiliate-agent). The hosted instance is an operations service with protected administration.
+- [Interactive sample demo](https://tbti-affiliate-demo.vercel.app/demo) · [Source, architecture, and test setup](https://github.com/Lother13501350/tbti-affiliate-agent). Import/replay/update orders, check Viewer denial, and approve fixed suggestions in your own resettable sandbox. All sample data is fictional; no paid AI calls.
 
 ### [PalRelay](https://github.com/Lother13501350/palrelay)
 

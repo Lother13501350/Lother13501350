@@ -1,0 +1,5 @@
+
+
+# Local development and audit hygiene
+.DS_Store
+*.log
